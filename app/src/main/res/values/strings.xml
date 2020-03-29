@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Retrica</string>
+    <string name="premium_content">Access Retricas entire library with a premium subscription!\nGet all the filters we periodically add to make your photos more special.</string>
+    <string name="puchase_string">Start your free 7-day trial. After trial ends,\n$4.99 / month</string>
+    <string name="terms_content">This subscription auto-renews at the end of each your term at $21.99, unless cancelled 24-hours in advance. The subscription fee is charged to your account at confirmation of purchase. You may manage your subscription and turn off auto-renewal by going to your Setings. No cancellation of the current subscription is allowed active period. By joining you accept our Terms of Use, Privacy Policy, / Restore Purchases</string>
+    <string name="wecome_string">Welcome to</string>
+    <string name="experience_string">Premium experience of Retrica</string>
+    <string name="purchase_two">7-days free, then $4.99/month</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
